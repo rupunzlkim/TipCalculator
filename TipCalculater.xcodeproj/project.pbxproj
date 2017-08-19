@@ -14,6 +14,7 @@
 		A6DD95511F4898B80078BF2A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A6DD954F1F4898B80078BF2A /* LaunchScreen.storyboard */; };
 		A6DD955C1F4898B80078BF2A /* TipCalculaterTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A6DD955B1F4898B80078BF2A /* TipCalculaterTests.swift */; };
 		A6DD95671F4898B80078BF2A /* TipCalculaterUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A6DD95661F4898B80078BF2A /* TipCalculaterUITests.swift */; };
+		A6DD95751F48D1BB0078BF2A /* iOS Bridge.JPG in Resources */ = {isa = PBXBuildFile; fileRef = A6DD95741F48D1BB0078BF2A /* iOS Bridge.JPG */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		A6DD95621F4898B80078BF2A /* TipCalculaterUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TipCalculaterUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		A6DD95661F4898B80078BF2A /* TipCalculaterUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TipCalculaterUITests.swift; sourceTree = "<group>"; };
 		A6DD95681F4898B80078BF2A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A6DD95741F48D1BB0078BF2A /* iOS Bridge.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "iOS Bridge.JPG"; path = "../../Kims-Hello-World/Kims-Hello-World/Assets.xcassets/iOS Bridge.JPG"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +103,7 @@
 				A6DD95481F4898B80078BF2A /* ViewController.swift */,
 				A6DD954A1F4898B80078BF2A /* Main.storyboard */,
 				A6DD954D1F4898B80078BF2A /* Assets.xcassets */,
+				A6DD95741F48D1BB0078BF2A /* iOS Bridge.JPG */,
 				A6DD954F1F4898B80078BF2A /* LaunchScreen.storyboard */,
 				A6DD95521F4898B80078BF2A /* Info.plist */,
 			);
@@ -233,6 +236,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				A6DD95511F4898B80078BF2A /* LaunchScreen.storyboard in Resources */,
+				A6DD95751F48D1BB0078BF2A /* iOS Bridge.JPG in Resources */,
 				A6DD954E1F4898B80078BF2A /* Assets.xcassets in Resources */,
 				A6DD954C1F4898B80078BF2A /* Main.storyboard in Resources */,
 			);
