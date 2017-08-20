@@ -9,7 +9,6 @@
 import UIKit
 
 extension String {
-    // DOESN'T WORK, SINCE OUTPUT AFTER FIRST USE IS CURRENCY, CAN'T BE USED BY TIPAMOUNT
     // formatting text to currency
 
     func cleanString() -> String {
@@ -85,7 +84,7 @@ class ViewController: UIViewController {
         tipLabel.text = "$0.00"
         totalLabel.text = "$0.00"
         
-        billField.addTarget(self, action: #selector(myBillFieldDidChange), for: .editingChanged)
+        //billField.addTarget(self, action: #selector(myBillFieldDidChange), for: .editingChanged)
     }
     
     func myBillFieldDidChange(_ billField: UITextField) {
